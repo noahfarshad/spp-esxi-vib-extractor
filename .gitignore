@@ -1,0 +1,21 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# Tool output (people will run this in the repo dir)
+vib-test/
+esxi-vibs/
+*-vib-manifest.csv
+*-vib-manifest.json
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
