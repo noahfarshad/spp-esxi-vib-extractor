@@ -1,0 +1,8 @@
+esxi_release,vib_name,version,vendor,esx_constraint,container_type,source_file
+8.0,bnxtnet,225.0.130.0-1OEM.800.1.0.20613240,BCM,8.0.0-0.0.0,smart_component,cp054321.zip
+8.0,bnxtroce,225.0.130.0-1OEM.800.1.0.20613240,BCM,8.0.0-0.0.0,smart_component,cp054322.zip
+9.0,qlnativefc,5.5.0.50-1OEM.900.0.0.24280767,MVL,9.0.0-0.0.0,offline_bundle,qlnativefc-900-offline_bundle.zip
+9.0,qcnic,2.2.20.0-1OEM.900.0.0.24280767,QLC,9.0.0-0.0.0,offline_bundle,qcnic-900-offline_bundle.zip
+9.0,smartpqi,80.4520.0.5000-1OEM.900.0.0.24280767,MIS,9.0.0-0.0.0,smart_component,cp056789.zip
+9.0,amsd,900.11.13.0.5-1OEM.900.0.0.24280767,HPE,9.0.0-0.0.0,smart_component,cp056790.zip
+9.0,ilo,900.10.13.0.2-1OEM.900.0.0.24280767,HPE,9.0.0-0.0.0,smart_component,cp056791.zip
